@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Git0BF
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis, here is my portfolio https://git0bf.github.io
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on data analysis projects
 
